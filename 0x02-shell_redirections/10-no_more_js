@@ -1,0 +1,2 @@
+#!/bin/bash
+fined . -name `*.js ' -type f -delete
